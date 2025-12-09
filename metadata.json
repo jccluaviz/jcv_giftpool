@@ -1,0 +1,5 @@
+{
+  "name": "GiftPool",
+  "description": "A collaborative gift-giving platform where users can manage wishlists and crowdfund gifts anonymously. Features AI-powered descriptions and PDF certification.",
+  "requestFramePermissions": []
+}
